@@ -6,6 +6,8 @@
 
 int main()
 {
+	printf("Hello, world!\n");
+	printf("This is just a test\n");
     return 0;
 }
 
